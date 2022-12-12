@@ -5,21 +5,21 @@
             "id": 1,
             "description": "This perfectly thin cut just melts in your mouth.",
             "name": "Asian Flank Steak",
-            "imageURL": "item_asianflanksteak_icon.jpg"
+            "imageURL": "asianflanksteak"
         },
         {
             "price": 6.99,
             "id": 2,
             "description": "Seasoned shrimp from the depths of the Atlantic Ocean.",
             "name": "Blackened Shrimp",
-            "imageURL": "item_blackenedshrimps_icon.jpg"
+            "imageURL": "blackenedshrimps"
         },
         {
             "price": 7.49,
             "description": "The tasty bites of chicken have just the right amount of kick to them.",
             "id": 3,
             "name": "Buffalo Chicken Bites",
-            "imageURL": "item_buffalochickenbites_icon.jpg"
+            "imageURL": "buffalochickenbites"
         },
         {
 
@@ -27,14 +27,14 @@
             "description": "These won't last 10 seconds once they hit the table.",
             "id": 4,
             "name": "Chicken Avocado Spring Roll",
-            "imageURL": "item_chickenavocado_icon.jpg"
+            "imageURL": "chickenavocado"
         },
         {
             "price": 8.99,
             "description": "It's really hard to keep coming up with these descriptions.",
             "id": 5,
             "name": "Chicken Dumplings",
-            "imageURL": "item_chickendumplings_icon.jpg"
+            "imageURL": "chickendumplings"
         }
       ]  
   }
